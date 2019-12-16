@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  margin: 0 auto;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center; 
+  background: rgb(205, 240, 245);
+}
+
+.container-fluid {
+  background: white;
+}
+
+.grey {
+  background: rgb(231, 231, 231);
+}
+
+
